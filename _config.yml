@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: 404Party
+description: "A quirky, vibrant Jekyll theme that turns your blog or portfolio into a celebration of creativity"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
